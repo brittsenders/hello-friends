@@ -1,5 +1,5 @@
 # hello-friends
-I'm new here! Just playing around with this platform.
+I'm new here! Just learning how this platform works.
 
 ```python
 def introduce_yourself():
